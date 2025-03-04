@@ -1,0 +1,52 @@
+Name: Chrollo Lucilfer
+Address: 456 Elm Street, Springfield, IL 62701
+Phone: 9847241237
+Email: chrollo123@email.com
+
+Objective:
+Motivated and results-driven software engineer with a strong commitment to developing innovative solutions. Seeking a challenging role in a forward-thinking company where I can leverage my technical skills to contribute to project success and foster personal growth.
+
+Summary of Qualifications:
+Bachelor of Science in Computer Science from Massachusetts Institute of Technology (MIT)
+Proficient in various programming languages including Python, Java, and C++
+Extensive experience with web development frameworks such as Django and React
+Strong understanding of software development methodologies, including Agile and Scrum
+Exceptional problem-solving and analytical skills
+Strong communication and teamwork abilities
+
+Education:
+Degree: Bachelor of Science in Computer Science
+College: Stanford University, Stanford, CA
+CGPA: 9.5/10
+
+Technical Skills:
+Programming Languages: Python, Java, C++
+Web Development: Flask, React, HTML, CSS, JavaScript
+Database Management: MySQL, PostgreSQL, MongoDB
+Version Control: Git
+Operating Systems: Linux, Windows
+
+Experience:
+Software Engineer | Innovative Solutions Corp.
+Developed and maintained backend services for a large-scale online retail platform using Python and Django
+Designed and implemented RESTful APIs to facilitate communication between different components of the system
+Collaborated with frontend developers to integrate user interface components with backend functionality
+Participated in code reviews and provided constructive feedback to team members
+Intern | NextGen Software Labs
+Assisted senior developers in building and testing software applications
+Conducted research on emerging technologies and presented findings to the development team
+Participated in Agile scrum meetings and contributed to sprint planning and retrospective sessions
+
+Projects:
+E-Commerce Platform: Developed a web-based e-commerce application using Django and React, allowing users to browse, search, and purchase products online.
+Personal Portfolio: Created a personal portfolio website using Flask and MongoDB, enabling users to showcase their projects and skills.
+
+Certifications:
+Google Cloud Certified – Associate Cloud Engineer
+Microsoft Certified: Azure Developer Associate
+CompTIA Security
+
+Languages:
+English (Native)
+French (Proficient)
+
