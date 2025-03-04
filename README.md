@@ -7,7 +7,7 @@ In today's digital world, hiring the right talent is crucial, yet the traditiona
 🎯 **Try it now:** [Resume Analyzer WebApp](https://resume-analyzer-webapp.onrender.com/)
 
 ## ⚡ The Challenge  
-🔍 **Manual resume screening** is time-consuming, biased, and inefficient. Recruiters must sift through numerous resumes, extract relevant information, and identify suitable candidates, making the hiring process cumbersome and prone to errors.  
+**Manual resume screening** is time-consuming, biased, and inefficient. Recruiters must sift through numerous resumes, extract relevant information, and identify suitable candidates, making the hiring process cumbersome and prone to errors.  
 
 ## 🚀 The Solution  
 Our system **automates and optimizes** the hiring process with **AI-driven features**:  
