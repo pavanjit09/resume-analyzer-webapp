@@ -7,7 +7,7 @@ In today's digital world, hiring the right talent is crucial, yet the traditiona
 🎯 **Try it now:** [Resume Analyzer WebApp](https://resume-analyzer-webapp.onrender.com/)
 
 ## 📌 Dataset  
-You can download the dataset used for training the models from the following link: [📂 Resume Screening Dataset](https://drive.google.com/file/d/1hrh0mQaS2a_NOxSA7WAfYW_tFySb2KHY/view) 
+You can download the dataset used for training the models from the following link: [Resume Screening Dataset](https://drive.google.com/file/d/1hrh0mQaS2a_NOxSA7WAfYW_tFySb2KHY/view) 
 
 ## ⚡ The Challenge  
 **Manual resume screening** is time-consuming, biased, and inefficient. Recruiters must sift through numerous resumes, extract relevant information, and identify suitable candidates, making the hiring process cumbersome and prone to errors.  
