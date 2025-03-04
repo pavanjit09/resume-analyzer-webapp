@@ -1,4 +1,4 @@
-# 📝 AI-Powered Resume Insights: Categorization & Job Matching System  
+# AI-Powered Resume Insights: Categorization & Job Matching System  
 
 ## 📌 Introduction  
 In today's digital world, hiring the right talent is crucial, yet the traditional resume screening process is slow and biased. My **AI-Powered Resume Screening System** revolutionizes recruitment by leveraging **Machine Learning (ML) & Natural Language Processing (NLP)** to automate **resume parsing, categorization, and job matching**—helping recruiters make **faster, unbiased, and data-driven** hiring decisions.  
