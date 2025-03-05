@@ -139,9 +139,10 @@ soupsieve==2.6
 SpeechRecognition==3.10.4
 stack-data==0.6.3
 sympy==1.13.1
-tensorboard==2.17.0
-tensorboard-data-server==0.7.1
-tensorflow==2.17.0
+tensorboard==2.18.0
+tensorboard-data-server==0.7.2
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
 termcolor==2.4.0
 terminado==0.18.1
 tf_keras==2.17.0
