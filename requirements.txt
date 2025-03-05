@@ -144,7 +144,6 @@ tensorboard-data-server==0.7.2
 tensorflow==2.18.0
 termcolor==2.4.0
 terminado==0.18.1
-tf_keras==2.17.0
 threadpoolctl==3.5.0
 tinycss2==1.3.0
 tokenizers==0.20.1
